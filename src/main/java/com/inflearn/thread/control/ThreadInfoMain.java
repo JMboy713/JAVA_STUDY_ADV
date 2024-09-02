@@ -1,9 +1,8 @@
 package com.inflearn.thread.control;
 
 import com.inflearn.thread.start.HelloRunnable;
-import com.inflearn.util.MyLogger;
 
-import static com.inflearn.util.MyLogger.*;
+import static com.inflearn.util.MyLogger.log;
 
 public class ThreadInfoMain {
     public static void main(String[] args) {
